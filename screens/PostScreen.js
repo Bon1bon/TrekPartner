@@ -4,7 +4,7 @@ import React from 'react'
 const PostScreen = () => {
   return (
     <View>
-      <Text>PostScreen123</Text>
+      <Text>PostScreen</Text>
     </View>
   )
 }
