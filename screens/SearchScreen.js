@@ -4,7 +4,7 @@ import React from 'react'
 const SearchScreen = () => {
   return (
     <View>
-      <Text>SearchScreen</Text>
+      <Text>SearchScreen 12345</Text>
     </View>
   )
 }
